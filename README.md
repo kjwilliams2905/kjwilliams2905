@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kjwilliams2905
-- 👀 I’m interested in technical authoring
-- 🌱 I’m currently learning everything about Madcap Flare
+- 👋 Hi, I’m @kjwilliams2905 (Keith J. Williams).
+- 👀 I’m interested in all aspects of technical documentation strategy, authoring and publishing.
+- 🌱 I’m currently pushing Madcap Flare to the limit to produce world-class documentation.
 
 <!---
 kjwilliams2905/kjwilliams2905 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
